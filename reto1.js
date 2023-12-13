@@ -1,4 +1,4 @@
-const giftIds = [5,1,5,1]
+const giftIds = [5,1,50,10,90,55]
 
 function findFirstRepeated(gifts) {
     // el idRegalo se repite en la lista de regalos
